@@ -1,0 +1,1 @@
+`Total before tax: $${6786/100}`
